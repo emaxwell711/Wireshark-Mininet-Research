@@ -1,0 +1,2068 @@
+No.     Time           Source                Destination           Protocol Length Info
+      1 0.000000000                                                MPEG-1   417    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 1: 417 bytes on wire (3336 bits), 417 bytes captured (3336 bits)
+Moving Picture Experts Group Audio
+Data: 000ff00000690000000800000d20000001000001a4000000...
+
+No.     Time           Source                Destination           Protocol Length Info
+      2 0.026121600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 2: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: 408ff00000690000000800000d20000001000001a4000000...
+Padding: 55
+
+No.     Time           Source                Destination           Protocol Length Info
+      3 0.052243200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 3: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: 408ff00000690000000800000d20000001000001a4000000...
+Padding: 55
+
+No.     Time           Source                Destination           Protocol Length Info
+      4 0.078364800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 4: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: 408ff00000690000000800000d20000001000001a4000000...
+Padding: 55
+
+No.     Time           Source                Destination           Protocol Length Info
+      5 0.104486400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 5: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: 408ff00000690000000800000d20000001000001a4000000...
+Padding: 55
+
+No.     Time           Source                Destination           Protocol Length Info
+      6 0.130608000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 6: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: 408ff00000690000000800000d20000001000001a4000000...
+Padding: 55
+
+No.     Time           Source                Destination           Protocol Length Info
+      7 0.156729600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 7: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: 408ff00000690000000800000d20000001000001a4000000...
+Padding: 55
+
+No.     Time           Source                Destination           Protocol Length Info
+      8 0.182851200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 8: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: 408ff00000690000000800000d20000001000001a4000000...
+Padding: 8f
+
+No.     Time           Source                Destination           Protocol Length Info
+      9 0.208972800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 9: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: 5d03f01200800340000800000d2000000106c426688ffb84...
+Padding: 24
+
+No.     Time           Source                Destination           Protocol Length Info
+     10 0.235094400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 10: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ff84f73a6d20b3fb792000000d200000011be5b4d06c3d91...
+Padding: 55
+
+No.     Time           Source                Destination           Protocol Length Info
+     11 0.261216000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 11: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: db0cf6906cba9338603200000d200000011ad1b6f42e3d80...
+Padding: 82
+
+No.     Time           Source                Destination           Protocol Length Info
+     12 0.287337600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 12: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: b48cf3122b43132340f200000d2000000110adb3060d3cc0...
+Padding: 5c
+
+No.     Time           Source                Destination           Protocol Length Info
+     13 0.313459200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 13: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e20df4aa6cc20b2c480000000d20000001159db1062d3127...
+Padding: 5f
+
+No.     Time           Source                Destination           Protocol Length Info
+     14 0.339580800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 14: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ff8ff7756d3f8378780000000d200000011c95b5020eb1f3...
+Padding: 55
+
+No.     Time           Source                Destination           Protocol Length Info
+     15 0.365702400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 15: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: d483f6386c422b6f600200000d2000000119a1af090de180...
+Padding: ee
+
+No.     Time           Source                Destination           Protocol Length Info
+     16 0.391824000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 16: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: b781f36d68c74308197200000d200000011001a51b0cb0c3...
+Padding: 4e
+
+No.     Time           Source                Destination           Protocol Length Info
+     17 0.417945600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 17: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e583f4b26c45c349307200000d20000001166db1100dbd20...
+Padding: 50
+
+No.     Time           Source                Destination           Protocol Length Info
+     18 0.444067200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 18: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e103f4816cc6a30c417000000d200000011605b31507b123...
+Padding: 2b
+
+No.     Time           Source                Destination           Protocol Length Info
+     19 0.470188800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 19: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e383f4f46bc643664af000000d2000000114f1b5190d9924...
+Padding: d1
+
+No.     Time           Source                Destination           Protocol Length Info
+     20 0.496310400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 20: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: df83f45e6c47a32c30e200000d20000001162db1170d3d21...
+Padding: 4f
+
+No.     Time           Source                Destination           Protocol Length Info
+     21 0.522432000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 21: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e383f4a26a47234f306200000d200000011631b1190db123...
+Padding: c5
+
+No.     Time           Source                Destination           Protocol Length Info
+     22 0.548553600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 22: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e203f4986cc7a36c314000000d2000000115e5b11b0d3127...
+Padding: 1d
+
+No.     Time           Source                Destination           Protocol Length Info
+     23 0.574675200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 23: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e803f4cd6b47a3464bf200000d200000011691b5190d3125...
+Padding: 6a
+
+No.     Time           Source                Destination           Protocol Length Info
+     24 0.600796800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 24: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e383f4de6bc7a36c30d200000d200000011539b31b0db121...
+Padding: 0a
+
+No.     Time           Source                Destination           Protocol Length Info
+     25 0.626918400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 25: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ff83f6a86d452b4f602400000d20000001161db11b0d1935...
+Padding: 35
+
+No.     Time           Source                Destination           Protocol Length Info
+     26 0.653040000                                                MPEG-1   417    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 26: 417 bytes on wire (3336 bits), 417 bytes captured (3336 bits)
+Moving Picture Experts Group Audio
+Data: fb83f7a76dc3ab98780400000d200000011981b5170dbd80...
+
+No.     Time           Source                Destination           Protocol Length Info
+     27 0.679161600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 27: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: d983f6566c45c398601200000d200000011a4db1150de180...
+Padding: 6b
+
+No.     Time           Source                Destination           Protocol Length Info
+     28 0.705283200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 28: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: c983f6906d45436f605000000d200000011bf9b512adb1f7...
+Padding: 3a
+
+No.     Time           Source                Destination           Protocol Length Info
+     29 0.731404800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 29: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: af83f5976bc6c34c48b200000d200000011841b5190d3d80...
+Padding: a4
+
+No.     Time           Source                Destination           Protocol Length Info
+     30 0.757526400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 30: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: b403f5436cc7436f480000000d2000000114c9b11c8d3123...
+Padding: 6a
+
+No.     Time           Source                Destination           Protocol Length Info
+     31 0.783648000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 31: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: cb83f5336c47234f485200000d2000000112bdab208d3cc1...
+Padding: 12
+
+No.     Time           Source                Destination           Protocol Length Info
+     32 0.809769600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 32: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ec03f5c86d46a32c48f000000d2000000117cdb5188dbd21...
+Padding: 28
+
+No.     Time           Source                Destination           Protocol Length Info
+     33 0.835891200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 33: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ef03f6066c46434963f200000d2000000116d5af1a8db126...
+Padding: c0
+
+No.     Time           Source                Destination           Protocol Length Info
+     34 0.862012800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 34: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f203f5e86cc6c34665d000000d2000000117b5b5190de180...
+Padding: e7
+
+No.     Time           Source                Destination           Protocol Length Info
+     35 0.888134400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 35: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f383f5c36cc6c36f48f000000d200000011c95b3140de189...
+Padding: 5d
+
+No.     Time           Source                Destination           Protocol Length Info
+     36 0.914256000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 36: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e403f5a66cc7c32f4da000000d200000011879b31b0dbd34...
+Padding: 26
+
+No.     Time           Source                Destination           Protocol Length Info
+     37 0.940377600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 37: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e687f5b56c4743264d9200000d200000011659b31d0e3134...
+Padding: 79
+
+No.     Time           Source                Destination           Protocol Length Info
+     38 0.966499200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 38: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f083f5d16cc6c38c49e000000d200000011895b1190db127...
+Padding: 38
+
+No.     Time           Source                Destination           Protocol Length Info
+     39 0.992620800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 39: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f003f5626cc7434c48c000000d200000011b1db514adb1f5...
+Padding: 79
+
+No.     Time           Source                Destination           Protocol Length Info
+     40 1.018742400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 40: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ec03f56a6c4723464c7200000d2000000117b5b5190db125...
+Padding: c1
+
+No.     Time           Source                Destination           Protocol Length Info
+     41 1.044864000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 41: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f583f6746d45c36b610000000d200000011889af190d3d83...
+Padding: 4a
+
+No.     Time           Source                Destination           Protocol Length Info
+     42 1.070985600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 42: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: eb07f6656c462b6965e200000d2000000115adb11ead24d9...
+Padding: 52
+
+No.     Time           Source                Destination           Protocol Length Info
+     43 1.097107200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 43: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ed07f6ea6c46037a637200000d20000001161dab210d24d9...
+Padding: bc
+
+No.     Time           Source                Destination           Protocol Length Info
+     44 1.123228800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 44: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e487f51e6b48c329360200000d200000011bd1b11a0de136...
+Padding: 18
+
+No.     Time           Source                Destination           Protocol Length Info
+     45 1.149350400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 45: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e205f5e86c48c36f361200000d200000011731b3200dbcd8...
+Padding: a9
+
+No.     Time           Source                Destination           Protocol Length Info
+     46 1.175472000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 46: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e58ff5b56a4883464f3200000d200000011979af1e0d993c...
+Padding: 34
+
+No.     Time           Source                Destination           Protocol Length Info
+     47 1.201593600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 47: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e300f53569c933491ea000000d200000011b8db51aad6591...
+Padding: 3b
+
+No.     Time           Source                Destination           Protocol Length Info
+     48 1.227715200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 48: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e085f5666ac8c34c35a200000d20000001188daf1eade52b...
+Padding: 3f
+
+No.     Time           Source                Destination           Protocol Length Info
+     49 1.253836800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 49: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e684f5c26cc8cb4c369000000d200000011805af1e0de4d1...
+Padding: 94
+
+No.     Time           Source                Destination           Protocol Length Info
+     50 1.279958400                                                MPEG-1   417    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 50: 417 bytes on wire (3336 bits), 417 bytes captured (3336 bits)
+Moving Picture Experts Group Audio
+Data: e904f6496c47ab6c369200000d200000011245872dac3077...
+
+No.     Time           Source                Destination           Protocol Length Info
+     51 1.306080000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 51: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f98ef7206c46ab7a645200000d2000000117a9b1220ceccd...
+Padding: 36
+
+No.     Time           Source                Destination           Protocol Length Info
+     52 1.332201600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 52: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e785f6a86c482b794da000000d20000001185db326ae60d8...
+Padding: 61
+
+No.     Time           Source                Destination           Protocol Length Info
+     53 1.358323200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 53: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: da87f6d86bc9838f372200000d20000001173daf2f0e3c7c...
+Padding: a0
+
+No.     Time           Source                Destination           Protocol Length Info
+     54 1.384444800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 54: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: cf07f6056acba38f1f2200000d20000001189dad2e8dbcbc...
+Padding: 5f
+
+No.     Time           Source                Destination           Protocol Length Info
+     55 1.410566400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 55: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: cb00f6756bcbab9a45c200000d2000000110997d4becb4ba...
+Padding: 68
+
+No.     Time           Source                Destination           Protocol Length Info
+     56 1.436688000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 56: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e007f6bb6c4bc39a5db000000d2000000118e9b1310e2cde...
+Padding: 02
+
+No.     Time           Source                Destination           Protocol Length Info
+     57 1.462809600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 57: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: cf87f6316acb836f471200000d20000001153989368dac7c...
+Padding: 00
+
+No.     Time           Source                Destination           Protocol Length Info
+     58 1.488931200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 58: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: d687f6a86bcc438f4f2000000d200000011aadb1310e6977...
+Padding: 1c
+
+No.     Time           Source                Destination           Protocol Length Info
+     59 1.515052800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 59: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: c007f62e6c4cab6c471600000d200000011719ad348db11c...
+Padding: 0d
+
+No.     Time           Source                Destination           Protocol Length Info
+     60 1.541174400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 60: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: bf87f6356bcd237c5d3000000d200000011a29af348e3d1c...
+Padding: b6
+
+No.     Time           Source                Destination           Protocol Length Info
+     61 1.567296000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 61: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: b287f67e6bcd237a7da000000d2000000118fdad368dbd7c...
+Padding: ef
+
+No.     Time           Source                Destination           Protocol Length Info
+     62 1.593417600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 62: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: a587f5d16c4e438c471200000d200000011665b13a8dad1c...
+Padding: 28
+
+No.     Time           Source                Destination           Protocol Length Info
+     63 1.619539200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 63: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ad87f5786c4f236b471000000d2000000114c5b13e8da8dd...
+Padding: e5
+
+No.     Time           Source                Destination           Protocol Length Info
+     64 1.645660800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 64: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: c187f53d6c4fa36a473000000d200000011435b13e8db4bc...
+Padding: f6
+
+No.     Time           Source                Destination           Protocol Length Info
+     65 1.671782400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 65: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: db87f5976c4f43745eb600000d2000000114b1b13e8db4dd...
+Padding: 70
+
+No.     Time           Source                Destination           Protocol Length Info
+     66 1.697904000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 66: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ee07f6416bce238f5f1000000d2000000117f1af3b0dbd7c...
+Padding: de
+
+No.     Time           Source                Destination           Protocol Length Info
+     67 1.724025600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 67: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e907f5f86bcea36f5f1200000d20000001190db1388e3d9c...
+Padding: 49
+
+No.     Time           Source                Destination           Protocol Length Info
+     68 1.750147200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 68: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e403f5236c50236d2f2000000d2000000116817d3d0de913...
+Padding: f6
+
+No.     Time           Source                Destination           Protocol Length Info
+     69 1.776268800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 69: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f187f5315ccea348172200000d20000001176dad330d24dc...
+Padding: f3
+
+No.     Time           Source                Destination           Protocol Length Info
+     70 1.802390400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 70: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ff87f65d6bcb836c372200000d200000011889a3310de934...
+Padding: 42
+
+No.     Time           Source                Destination           Protocol Length Info
+     71 1.828512000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 71: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f687f5d25f4d236c36a200000d2000000117f9ab328d3d1a...
+Padding: 2b
+
+No.     Time           Source                Destination           Protocol Length Info
+     72 1.854633600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 72: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f887f69f6c4c236f4eb200000d200000011a99af310dbd3d...
+Padding: a2
+
+No.     Time           Source                Destination           Protocol Length Info
+     73 1.880755200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 73: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e302f5825ece434b4f3200000d200000011875b3370d3d7a...
+Padding: c5
+
+No.     Time           Source                Destination           Protocol Length Info
+     74 1.906876800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 74: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e807f6046bce236f4f2200000d200000011829ad388d2dfc...
+Padding: 16
+
+No.     Time           Source                Destination           Protocol Length Info
+     75 1.932998400                                                MPEG-1   417    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 75: 417 bytes on wire (3336 bits), 417 bytes captured (3336 bits)
+Moving Picture Experts Group Audio
+Data: e607f6036a4e734f5f1200000d200000011659af388dbd1a...
+
+No.     Time           Source                Destination           Protocol Length Info
+     76 1.959120000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 76: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ea83f56569cea34f5ea200000d200000011729a73bcd357c...
+Padding: 7c
+
+No.     Time           Source                Destination           Protocol Length Info
+     77 1.985241600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 77: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f687f5c06ccec36d4fa400000d200000011809ad388d3d9d...
+Padding: 3d
+
+No.     Time           Source                Destination           Protocol Length Info
+     78 2.011363200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 78: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f907f6926d4dc36f4ee400000d200000011941b1388dbd3d...
+Padding: 39
+
+No.     Time           Source                Destination           Protocol Length Info
+     79 2.037484800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 79: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e986f5d86acf234d7ec200000d2000000117ddb33d6db5fc...
+Padding: 8b
+
+No.     Time           Source                Destination           Protocol Length Info
+     80 2.063606400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 80: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: eb87f6086ccf236d7f3000000d200000011755a93c8db5fc...
+Padding: 9f
+
+No.     Time           Source                Destination           Protocol Length Info
+     81 2.089728000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 81: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ec87f5f16b4f434d7f3000000d200000011811af3c8db5fc...
+Padding: 82
+
+No.     Time           Source                Destination           Protocol Length Info
+     82 2.115849600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 82: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ec07f5f36acf236d7f3200000d2000000115d5a7408d45fb...
+Padding: 7a
+
+No.     Time           Source                Destination           Protocol Length Info
+     83 2.141971200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 83: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f487f6746d4ea36d7f3000000d200000011ca1b1370e6df7...
+Padding: 9d
+
+No.     Time           Source                Destination           Protocol Length Info
+     84 2.168092800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 84: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: d985f5b76a4fdb715ea200000d200000011685ab3e8db57d...
+Padding: 1e
+
+No.     Time           Source                Destination           Protocol Length Info
+     85 2.194214400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 85: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e303f5316ad0f37246d200000d200000011a51b33a8de1fa...
+Padding: a9
+
+No.     Time           Source                Destination           Protocol Length Info
+     86 2.220336000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 86: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e587f59a6bd0236d375200000d200000011865af3d0dc9fb...
+Padding: 3d
+
+No.     Time           Source                Destination           Protocol Length Info
+     87 2.246457600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 87: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e907f6296acf236d7f3200000d200000011565ab428d3dba...
+Padding: da
+
+No.     Time           Source                Destination           Protocol Length Info
+     88 2.272579200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 88: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ef87f6446c50a36f66d200000d200000011731b143cd357c...
+Padding: e8
+
+No.     Time           Source                Destination           Protocol Length Info
+     89 2.298700800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 89: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ed83f6206bd0236d7fa200000d200000011925b13e8e3d3d...
+Padding: 7f
+
+No.     Time           Source                Destination           Protocol Length Info
+     90 2.324822400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 90: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e580f4ef6c51e34d46c000000d20000001198db53c8dbd9c...
+Padding: 1d
+
+No.     Time           Source                Destination           Protocol Length Info
+     91 2.350944000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 91: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ef07f6216ccfa36f5f4000000d200000011505b3428d3d1c...
+Padding: dd
+
+No.     Time           Source                Destination           Protocol Length Info
+     92 2.377065600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 92: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f787f54959d0a32f46a200000d2000000119ddaf3f0d3d7c...
+Padding: 61
+
+No.     Time           Source                Destination           Protocol Length Info
+     93 2.403187200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 93: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f103f5795e50a33a462200000d20000001162d7b428d3d7a...
+Padding: bd
+
+No.     Time           Source                Destination           Protocol Length Info
+     94 2.429308800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 94: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ff87f6d06c4ec36f672200000d20000001188db33f0dbd7c...
+Padding: 1f
+
+No.     Time           Source                Destination           Protocol Length Info
+     95 2.455430400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 95: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ef03f61c68cfc36f4eb200000d2000000117ddb13e8d3d7c...
+Padding: 40
+
+No.     Time           Source                Destination           Protocol Length Info
+     96 2.481552000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 96: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ec83f5b368d0237246c200000d200000011985b33b0dbc7d...
+Padding: 6c
+
+No.     Time           Source                Destination           Protocol Length Info
+     97 2.507673600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 97: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ea03f5b06bd0237046b200000d200000011975af3c8e3d3e...
+Padding: eb
+
+No.     Time           Source                Destination           Protocol Length Info
+     98 2.533795200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 98: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e803f6746c4f43727e8200000d2000000116adaf408db57c...
+Padding: 07
+
+No.     Time           Source                Destination           Protocol Length Info
+     99 2.559916800                                                MPEG-1   417    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 99: 417 bytes on wire (3336 bits), 417 bytes captured (3336 bits)
+Moving Picture Experts Group Audio
+Data: e503f5c86c50238d5f2000000d20000001194db13cadc9fc...
+
+No.     Time           Source                Destination           Protocol Length Info
+    100 2.586038400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 100: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e183f5c26bd0c37366c200000d20000001169d93428e4d9b...
+Padding: fc
+
+No.     Time           Source                Destination           Protocol Length Info
+    101 2.612160000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 101: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e983f6d96c4e838f47c000000d2000000116b9ad448db57c...
+Padding: 4f
+
+No.     Time           Source                Destination           Protocol Length Info
+    102 2.638281600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 102: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e003f5d26bd0a39b6b7000000d2000000116c5b3430db57c...
+Padding: e1
+
+No.     Time           Source                Destination           Protocol Length Info
+    103 2.664403200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 103: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e683f62e6bd0a38d7f3000000d200000011795af42ae6dad...
+Padding: 43
+
+No.     Time           Source                Destination           Protocol Length Info
+    104 2.690524800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 104: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e403f5bd6c5123737ec000000d200000011af1b53f0e6df1...
+Padding: cf
+
+No.     Time           Source                Destination           Protocol Length Info
+    105 2.716646400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 105: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: db07f5dc6c51438d7f3200000d20000001175daf448db5fc...
+Padding: 76
+
+No.     Time           Source                Destination           Protocol Length Info
+    106 2.742768000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 106: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: de83f5676bd1c3915ec000000d2000000115f9af468db57c...
+Padding: 9d
+
+No.     Time           Source                Destination           Protocol Length Info
+    107 2.768889600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 107: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ef03f6796bd02b907fa200000d2000000117adad450e69ad...
+Padding: 5b
+
+No.     Time           Source                Destination           Protocol Length Info
+    108 2.795011200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 108: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e783f5bc6bd1436d7f3200000d20000001171daf448e357d...
+Padding: b1
+
+No.     Time           Source                Destination           Protocol Length Info
+    109 2.821132800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 109: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ee03f6216c50c38d67a200000d20000001180db1430db5fe...
+Padding: 2c
+
+No.     Time           Source                Destination           Protocol Length Info
+    110 2.847254400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 110: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ea83f6876d50238d7fa000000d20000001140db1488d297c...
+Padding: 99
+
+No.     Time           Source                Destination           Protocol Length Info
+    111 2.873376000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 111: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f082f7176d4f4392c7a000000d200000011725b5458dc97a...
+Padding: 10
+
+No.     Time           Source                Destination           Protocol Length Info
+    112 2.899497600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 112: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e183f5de6c50a3737ec200000d2000000115c5b1450e69ad...
+Padding: 70
+
+No.     Time           Source                Destination           Protocol Length Info
+    113 2.925619200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 113: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: eb83f60c6ad0436b4fa200000d20000001146d85468d1cdc...
+Padding: 95
+
+No.     Time           Source                Destination           Protocol Length Info
+    114 2.951740800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 114: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f803f5a16b50c33a453200000d200000011bb9af3e8e65f6...
+Padding: 03
+
+No.     Time           Source                Destination           Protocol Length Info
+    115 2.977862400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 115: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ee07f5ed63d0235c455200000d20000001188dab3e8dc97c...
+Padding: d2
+
+No.     Time           Source                Destination           Protocol Length Info
+    116 3.003984000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 116: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ec03f5f56bd0238f5f1200000d2000000117319d428d7175...
+Padding: 34
+
+No.     Time           Source                Destination           Protocol Length Info
+    117 3.030105600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 117: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ee87f6756c4f236f673200000d2000000118cdb33c8de977...
+Padding: 82
+
+No.     Time           Source                Destination           Protocol Length Info
+    118 3.056227200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 118: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e307f57f6bd0a37246b000000d2000000115b9a1428e3d18...
+Padding: 2a
+
+No.     Time           Source                Destination           Protocol Length Info
+    119 3.082348800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 119: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f307f6826acf237c655200000d2000000117fda33f0dbd7c...
+Padding: db
+
+No.     Time           Source                Destination           Protocol Length Info
+    120 3.108470400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 120: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e987f5a26b50236f5ea000000d2000000118c9af3e8d7171...
+Padding: 44
+
+No.     Time           Source                Destination           Protocol Length Info
+    121 3.134592000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 121: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: eb07f6196b50236f5f2200000d200000011825ab408dd13b...
+Padding: b8
+
+No.     Time           Source                Destination           Protocol Length Info
+    122 3.160713600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 122: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e787f6326bd0236f5f4000000d2000000114c5af468dc93b...
+Padding: 3c
+
+No.     Time           Source                Destination           Protocol Length Info
+    123 3.186835200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 123: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f005f58a6bd15b6d474000000d200000011875af408e4d7a...
+Padding: 21
+
+No.     Time           Source                Destination           Protocol Length Info
+    124 3.212956800                                                MPEG-1   417    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 124: 417 bytes on wire (3336 bits), 417 bytes captured (3336 bits)
+Moving Picture Experts Group Audio
+Data: f487f5996c5123735ec200000d200000011805af428dc57c...
+
+No.     Time           Source                Destination           Protocol Length Info
+    125 3.239078400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 125: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f907f5b36c51237346d200000d2000000117d1b1448e357c...
+Padding: 6e
+
+No.     Time           Source                Destination           Protocol Length Info
+    126 3.265200000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 126: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: fd07f5b96c51436f5f1200000d200000011821af410dc1fc...
+Padding: cc
+
+No.     Time           Source                Destination           Protocol Length Info
+    127 3.291321600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 127: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ff87f6796c4fc38f474000000d2000000115e5af428db53c...
+Padding: bb
+
+No.     Time           Source                Destination           Protocol Length Info
+    128 3.317443200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 128: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: fd87f57d6bd0a39246c000000d200000011949b3408e4dfb...
+Padding: e2
+
+No.     Time           Source                Destination           Protocol Length Info
+    129 3.343564800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 129: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: fe07f5a06bd1439346c600000d2000000118c5af428e519b...
+Padding: ac
+
+No.     Time           Source                Destination           Protocol Length Info
+    130 3.369686400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 130: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ff85f5b66bd15b745ec200000d200000011969b3408e4dfb...
+Padding: 5b
+
+No.     Time           Source                Destination           Protocol Length Info
+    131 3.395808000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 131: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f587f58d6bd1a3725ec200000d20000001170dad448e4d7b...
+Padding: 6d
+
+No.     Time           Source                Destination           Protocol Length Info
+    132 3.421929600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 132: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f985f5796bd1db9246c000000d20000001185daf430e4d3b...
+Padding: 30
+
+No.     Time           Source                Destination           Protocol Length Info
+    133 3.448051200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 133: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: fe87f5956bd1a3735ec200000d200000011919b1428e357e...
+Padding: de
+
+No.     Time           Source                Destination           Protocol Length Info
+    134 3.474172800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 134: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f307f5f36b5123935ea200000d2000000114d17d468dbd18...
+Padding: 9c
+
+No.     Time           Source                Destination           Protocol Length Info
+    135 3.500294400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 135: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f286f5b96bcf23691f1000000d20000001159145390de116...
+Padding: 5f
+
+No.     Time           Source                Destination           Protocol Length Info
+    136 3.526416000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 136: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ff86f6186c4cc37845a000000d2000000119e9af32ade92f...
+Padding: 23
+
+No.     Time           Source                Destination           Protocol Length Info
+    137 3.552537600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 137: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f503f66b6c4da34967a200000d200000011555b33e8d3d1a...
+Padding: 37
+
+No.     Time           Source                Destination           Protocol Length Info
+    138 3.578659200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 138: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f803f6126d4ea34f669000000d2000000115ddb13c8d311a...
+Padding: 97
+
+No.     Time           Source                Destination           Protocol Length Info
+    139 3.604780800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 139: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: fe07f5d16acea348673200000d200000011961b1390dad3e...
+Padding: 54
+
+No.     Time           Source                Destination           Protocol Length Info
+    140 3.630902400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 140: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: fa03f58c6b50234d4f3200000d200000011935b3408dc13d...
+Padding: 4a
+
+No.     Time           Source                Destination           Protocol Length Info
+    141 3.657024000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 141: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f985f5e66cd0db6f5ea000000d200000011699ab428d3d7a...
+Padding: 35
+
+No.     Time           Source                Destination           Protocol Length Info
+    142 3.683145600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 142: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ff83f6306a4fa37066d200000d20000001183dab408db53d...
+Padding: 58
+
+No.     Time           Source                Destination           Protocol Length Info
+    143 3.709267200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 143: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: fa83f6ba6bcf23927f2200000d20000001182db1410dc99c...
+Padding: 36
+
+No.     Time           Source                Destination           Protocol Length Info
+    144 3.735388800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 144: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ed07f5b26ad0a3725f2200000d2000000117d5ab410dc91d...
+Padding: 0a
+
+No.     Time           Source                Destination           Protocol Length Info
+    145 3.761510400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 145: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f183f60f6bd0239b5c7000000d2000000116b5ab428dc51c...
+Padding: 57
+
+No.     Time           Source                Destination           Protocol Length Info
+    146 3.787632000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 146: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f483f5e26b504372672200000d20000001194daf408e49fb...
+Padding: 6b
+
+No.     Time           Source                Destination           Protocol Length Info
+    147 3.813753600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 147: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f003f6106cd0a3925ed000000d200000011839ad408dc97b...
+Padding: 84
+
+No.     Time           Source                Destination           Protocol Length Info
+    148 3.839875200                                                MPEG-1   417    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 148: 417 bytes on wire (3336 bits), 417 bytes captured (3336 bits)
+Moving Picture Experts Group Audio
+Data: ed03f5946ad0a3715ea200000d20000001173dab408e34dd...
+
+No.     Time           Source                Destination           Protocol Length Info
+    149 3.865996800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 149: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f503f5b66ad023915ea200000d200000011859ab408e497c...
+Padding: fa
+
+No.     Time           Source                Destination           Protocol Length Info
+    150 3.892118400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 150: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f703f5f16b5023725ed000000d20000001191dad408e49fc...
+Padding: 44
+
+No.     Time           Source                Destination           Protocol Length Info
+    151 3.918240000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 151: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f283f5d16b50a3915f2200000d2000000116f1ab428dc17c...
+Padding: 20
+
+No.     Time           Source                Destination           Protocol Length Info
+    152 3.944361600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 152: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f882f5936ad15b7146b200000d2000000119d1b33e8e4dfc...
+Padding: e4
+
+No.     Time           Source                Destination           Protocol Length Info
+    153 3.970483200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 153: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f683f5a66ad1239066c200000d2000000116e9ab448db57c...
+Padding: 46
+
+No.     Time           Source                Destination           Protocol Length Info
+    154 3.996604800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 154: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f983f5a16ad123714ed200000d2000000117a5a9428e4d9d...
+Padding: 03
+
+No.     Time           Source                Destination           Protocol Length Info
+    155 4.022726400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 155: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: fe03f6126ad023915f4200000d200000011711a9430e419c...
+Padding: 8f
+
+No.     Time           Source                Destination           Protocol Length Info
+    156 4.048848000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 156: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: fc87f5f76ad0a3714f4200000d200000011725ab428db57a...
+Padding: a3
+
+No.     Time           Source                Destination           Protocol Length Info
+    157 4.074969600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 157: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f003f5216b52236d5ec200000d200000011759ab448e3d7a...
+Padding: 95
+
+No.     Time           Source                Destination           Protocol Length Info
+    158 4.101091200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 158: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ff8bf6e36ccfab7a7e2200000d2000000116a5af420db53c...
+Padding: d6
+
+No.     Time           Source                Destination           Protocol Length Info
+    159 4.127212800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 159: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f583f63b6c4fc392670200000d20000001172dab408dc53c...
+Padding: fb
+
+No.     Time           Source                Destination           Protocol Length Info
+    160 4.153334400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 160: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f403f5e06bd0436f5e9200000d200000011731ab428e696f...
+Padding: 8a
+
+No.     Time           Source                Destination           Protocol Length Info
+    161 4.179456000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 161: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f803f61c6ad0236f4ec200000d200000011885b13f0e3d7a...
+Padding: 12
+
+No.     Time           Source                Destination           Protocol Length Info
+    162 4.205577600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 162: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f301f5c66ad0236d4f2200000d200000011aedb33aae3d9c...
+Padding: f1
+
+No.     Time           Source                Destination           Protocol Length Info
+    163 4.231699200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 163: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e983f5eb6bcfab8d673200000d200000011711b3410db57c...
+Padding: 94
+
+No.     Time           Source                Destination           Protocol Length Info
+    164 4.257820800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 164: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ed83f6386c4fa36d673200000d200000011699ab408dbd7a...
+Padding: fd
+
+No.     Time           Source                Destination           Protocol Length Info
+    165 4.283942400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 165: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ee8bf60b6bcfa36f5e9200000d2000000117b5af3eae417c...
+Padding: 77
+
+No.     Time           Source                Destination           Protocol Length Info
+    166 4.310064000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 166: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ee05f6216bcfa39a7af200000d200000011a89af3b0e45fc...
+Padding: f0
+
+No.     Time           Source                Destination           Protocol Length Info
+    167 4.336185600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 167: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e083f5786b50239a5bf200000d2000000117b9ad3f0e696f...
+Padding: f8
+
+No.     Time           Source                Destination           Protocol Length Info
+    168 4.362307200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 168: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e903f6576ccf236d7f3000000d20000001179da93e8dbd7a...
+Padding: c3
+
+No.     Time           Source                Destination           Protocol Length Info
+    169 4.388428800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 169: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e403f51d6ad0a36d46a000000d200000011b51b338ae3d9e...
+Padding: 1a
+
+No.     Time           Source                Destination           Protocol Length Info
+    170 4.414550400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 170: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e385f57569d05b6d472200000d200000011a6db538ae3d9c...
+Padding: a7
+
+No.     Time           Source                Destination           Protocol Length Info
+    171 4.440672000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 171: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e183f5c569cf236d5f2200000d200000011641af3f0db51c...
+Padding: 28
+
+No.     Time           Source                Destination           Protocol Length Info
+    172 4.466793600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 172: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: eb03f6a66acec39a7bf200000d2000000115a5af408da91e...
+Padding: f3
+
+No.     Time           Source                Destination           Protocol Length Info
+    173 4.492915200                                                MPEG-1   417    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 173: 417 bytes on wire (3336 bits), 417 bytes captured (3336 bits)
+Moving Picture Experts Group Audio
+Data: e903f5e36b4f436f4ea200000d200000011721af3c8de90f...
+
+No.     Time           Source                Destination           Protocol Length Info
+    174 4.519036800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 174: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ec83f62a6c4ea392471200000d200000011819af3aae696f...
+Padding: b8
+
+No.     Time           Source                Destination           Protocol Length Info
+    175 4.545158400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 175: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e883f5ba6b4f236b4f9200000d2000000119f1b13b0e3d9c...
+Padding: 31
+
+No.     Time           Source                Destination           Protocol Length Info
+    176 4.571280000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 176: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e403f4e669d1236d473200000d200000011a25b33b0e6d93...
+Padding: fd
+
+No.     Time           Source                Destination           Protocol Length Info
+    177 4.597401600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 177: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ec03f6906cce438d672000000d200000011471b3428db4bc...
+Padding: c1
+
+No.     Time           Source                Destination           Protocol Length Info
+    178 4.623523200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 178: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f003f69669ce239b7b7200000d2000000116b9b33e8db53c...
+Padding: 14
+
+No.     Time           Source                Destination           Protocol Length Info
+    179 4.649644800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 179: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ea83f6156a4fa38d4f1200000d2000000117b9ab3e8e353c...
+Padding: 08
+
+No.     Time           Source                Destination           Protocol Length Info
+    180 4.675766400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 180: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e903f6b66b4ec37a7e1200000d2000000115bdab410dc59b...
+Padding: 42
+
+No.     Time           Source                Destination           Protocol Length Info
+    181 4.701888000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 181: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e587f59e6bcfa38d673200000d200000011a41af380e6ded...
+Padding: 1a
+
+No.     Time           Source                Destination           Protocol Length Info
+    182 4.728009600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 182: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e183f53d6ad0236d473200000d200000011a91af388e3d3c...
+Padding: c7
+
+No.     Time           Source                Destination           Protocol Length Info
+    183 4.754131200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 183: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e203f54469d0238d473200000d200000011a35ab390e6ded...
+Padding: f3
+
+No.     Time           Source                Destination           Protocol Length Info
+    184 4.780252800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 184: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e383f5786ccfa3705e9000000d2000000119e5af36ae359e...
+Padding: d9
+
+No.     Time           Source                Destination           Protocol Length Info
+    185 4.806374400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 185: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e301f5376cd0736a47a000000d200000011ab5b1390e459c...
+Padding: 0a
+
+No.     Time           Source                Destination           Protocol Length Info
+    186 4.832496000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 186: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e383f5176ad0236d2f2200000d200000011979b1388e419c...
+Padding: 50
+
+No.     Time           Source                Destination           Protocol Length Info
+    187 4.858617600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 187: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: eb03f6326ccec38f5ea000000d2000000117f9ad3aae3d3a...
+Padding: 4a
+
+No.     Time           Source                Destination           Protocol Length Info
+    188 4.884739200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 188: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e703f6086cceab92673000000d200000011711b13c8e357c...
+Padding: ec
+
+No.     Time           Source                Destination           Protocol Length Info
+    189 4.910860800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 189: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e903f6056c4ec36d4f2200000d200000011645ab3c8db4dc...
+Padding: 3b
+
+No.     Time           Source                Destination           Protocol Length Info
+    190 4.936982400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 190: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ee83f64b6b4e23914f2000000d20000001155da73e8da8dc...
+Padding: 05
+
+No.     Time           Source                Destination           Protocol Length Info
+    191 4.963104000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 191: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f303f65f6bcdc38f46b200000d20000001174dad388db53e...
+Padding: 82
+
+No.     Time           Source                Destination           Protocol Length Info
+    192 4.989225600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 192: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ee83f6106ace436d673200000d2000000119f9b334ae3d9c...
+Padding: 17
+
+No.     Time           Source                Destination           Protocol Length Info
+    193 5.015347200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 193: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e483f4fd6c4fa37146c200000d200000011b09b5350e3d9c...
+Padding: 47
+
+No.     Time           Source                Destination           Protocol Length Info
+    194 5.041468800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 194: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e783f5d86bcea39a5bf200000d2000000119f5b1340e3d9a...
+Padding: 14
+
+No.     Time           Source                Destination           Protocol Length Info
+    195 5.067590400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 195: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e103f5ff6a4ea36f4eb200000d20000001140dab408db4db...
+Padding: 6a
+
+No.     Time           Source                Destination           Protocol Length Info
+    196 5.093712000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 196: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ef83f6da6ccd439b7b7000000d20000001173dab390de92f...
+Padding: 8a
+
+No.     Time           Source                Destination           Protocol Length Info
+    197 5.119833600                                                MPEG-1   417    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 197: 417 bytes on wire (3336 bits), 417 bytes captured (3336 bits)
+Moving Picture Experts Group Audio
+Data: e383f5ba6bcf236f5e9000000d200000011a99af370e3d9d...
+
+No.     Time           Source                Destination           Protocol Length Info
+    198 5.145955200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 198: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: dc03f5626c4f236a473200000d20000001148da73c8de56d...
+Padding: 8d
+
+No.     Time           Source                Destination           Protocol Length Info
+    199 5.172076800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 199: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f283f6706ccd439a64f000000d2000000119bdb3348e3d3c...
+Padding: a8
+
+No.     Time           Source                Destination           Protocol Length Info
+    200 5.198198400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 200: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e383f526664f23795b7200000d2000000119d1af348dbd9c...
+Padding: 3b
+
+No.     Time           Source                Destination           Protocol Length Info
+    201 5.224320000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 201: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e883f58c69ce436a47a200000d20000001192dab368e6d31...
+Padding: b9
+
+No.     Time           Source                Destination           Protocol Length Info
+    202 5.250441600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 202: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ea03f5f56cce23794d4000000d200000011815af370dad1e...
+Padding: 31
+
+No.     Time           Source                Destination           Protocol Length Info
+    203 5.276563200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 203: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e903f5296acf236b46a200000d20000001194daf348e6d8f...
+Padding: 08
+
+No.     Time           Source                Destination           Protocol Length Info
+    204 5.302684800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 204: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f003f64e6c4d436b67a000000d2000000115e1af390de90f...
+Padding: 8f
+
+No.     Time           Source                Destination           Protocol Length Info
+    205 5.328806400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 205: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f283f6476b4d438f4ea200000d20000001164da9368e690f...
+Padding: 06
+
+No.     Time           Source                Destination           Protocol Length Info
+    206 5.354928000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 206: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f383f66d6b4cc39a64f200000d2000000117b5b332adad3c...
+Padding: c8
+
+No.     Time           Source                Destination           Protocol Length Info
+    207 5.381049600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 207: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ec85f6906bcb838f672000000d2000000115a1a5350dacdc...
+Padding: b3
+
+No.     Time           Source                Destination           Protocol Length Info
+    208 5.407171200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 208: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ec07f5d06ccc436b37a000000d200000011911b12f0e3d1c...
+Padding: 2d
+
+No.     Time           Source                Destination           Protocol Length Info
+    209 5.433292800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 209: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e983f5b769cc2b9a43f600000d2000000117bdab310e3cda...
+Padding: de
+
+No.     Time           Source                Destination           Protocol Length Info
+    210 5.459414400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 210: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ee07f62c6bcbc37a4bf000000d20000001160dab310dbd1a...
+Padding: ce
+
+No.     Time           Source                Destination           Protocol Length Info
+    211 5.485536000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 211: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f207f61a6bcbc39a5bf000000d200000011701af2e8dacde...
+Padding: cf
+
+No.     Time           Source                Destination           Protocol Length Info
+    212 5.511657600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 212: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f302f6cf6bcac38f66b000000d200000011565a5356de515...
+Padding: 4e
+
+No.     Time           Source                Destination           Protocol Length Info
+    213 5.537779200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 213: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ef82f61d6bcba38c379200000d200000011845af2eae30de...
+Padding: 26
+
+No.     Time           Source                Destination           Protocol Length Info
+    214 5.563900800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 214: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: eb8ff5e96c4b036c4ea000000d200000011571ab2a0da47a...
+Padding: 96
+
+No.     Time           Source                Destination           Protocol Length Info
+    215 5.590022400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 215: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f607f5ce6cc9a39a42f000000d200000011799ad22ae692b...
+Padding: 0f
+
+No.     Time           Source                Destination           Protocol Length Info
+    216 5.616144000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 216: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f383f53a6b494398336200000d2000000117d9b31e0e692b...
+Padding: 2d
+
+No.     Time           Source                Destination           Protocol Length Info
+    217 5.642265600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 217: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ec03f5286bc8a36f1c4200000d200000011641b31e0dbd31...
+Padding: 72
+
+No.     Time           Source                Destination           Protocol Length Info
+    218 5.668387200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 218: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e903f47b6c49434f31e200000d200000011825b11a0de187...
+Padding: da
+
+No.     Time           Source                Destination           Protocol Length Info
+    219 5.694508800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 219: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ef0bf5066cc82b49343000000d200000011779b11a0de127...
+Padding: 84
+
+No.     Time           Source                Destination           Protocol Length Info
+    220 5.720630400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 220: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: e783f53d6c478318487200000d2000000114c9ad1f0c6525...
+Padding: 92
+
+No.     Time           Source                Destination           Protocol Length Info
+    221 5.746752000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 221: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ef03f4896cc8c32f30e000000d200000011961b3190e2595...
+Padding: 71
+
+No.     Time           Source                Destination           Protocol Length Info
+    222 5.772873600                                                MPEG-1   417    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 222: 417 bytes on wire (3336 bits), 417 bytes captured (3336 bits)
+Moving Picture Experts Group Audio
+Data: ee07f5956d472b6f484000000d2000000114d5b51d0d1933...
+
+No.     Time           Source                Destination           Protocol Length Info
+    223 5.798995200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 223: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f203f5a76cc6c36f485000000d2000000115b1b31d0d3121...
+Padding: ac
+
+No.     Time           Source                Destination           Protocol Length Info
+    224 5.825116800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 224: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f703f60d6cc6436f609000000d200000011551b31d0d9931...
+Padding: b4
+
+No.     Time           Source                Destination           Protocol Length Info
+    225 5.851238400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 225: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ff83f6966cc50389625200000d200000011629b31b0cb123...
+Padding: db
+
+No.     Time           Source                Destination           Protocol Length Info
+    226 5.877360000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 226: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: fc83f5cf6c46434f600200000d200000011a81b5140dbd80...
+Padding: 4c
+
+No.     Time           Source                Destination           Protocol Length Info
+    227 5.903481600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 227: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f48bf6106d464367608000000d2000000117e5af190dbd80...
+Padding: 08
+
+No.     Time           Source                Destination           Protocol Length Info
+    228 5.929603200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 228: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f283f60d6c46434c608200000d200000011835b118aca584...
+Padding: 59
+
+No.     Time           Source                Destination           Protocol Length Info
+    229 5.955724800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 229: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ef83f6636c45836c7d7200000d2000000116c1b51b0db123...
+Padding: 6d
+
+No.     Time           Source                Destination           Protocol Length Info
+    230 5.981846400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 230: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ed03f5ab6cc6c349637000000d200000011981b316ad25f5...
+Padding: 8c
+
+No.     Time           Source                Destination           Protocol Length Info
+    231 6.007968000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 231: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: eb03f5f16bc62b697d7200000d2000000115f9b51b0cbd21...
+Padding: 95
+
+No.     Time           Source                Destination           Protocol Length Info
+    232 6.034089600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 232: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f303f6226c464378603200000d2000000117e9b1190da582...
+Padding: b4
+
+No.     Time           Source                Destination           Protocol Length Info
+    233 6.060211200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 233: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f003f59b6cc6ab2c49f400000d2000000119edb3170e3d81...
+Padding: 79
+
+No.     Time           Source                Destination           Protocol Length Info
+    234 6.086332800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 234: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ed83f6216d46436f601000000d2000000114f5b11d0db123...
+Padding: f4
+
+No.     Time           Source                Destination           Protocol Length Info
+    235 6.112454400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 235: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f683f5f26c46438c600200000d200000011895b1190dbd80...
+Padding: 11
+
+No.     Time           Source                Destination           Protocol Length Info
+    236 6.138576000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 236: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f403f6696cc5c36f600000000d20000001175db31aad3d81...
+Padding: 88
+
+No.     Time           Source                Destination           Protocol Length Info
+    237 6.164697600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 237: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ef07f66f6c462b5861e200000d20000001170db11cad652e...
+Padding: b9
+
+No.     Time           Source                Destination           Protocol Length Info
+    238 6.190819200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 238: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ea83f5f06c472b7a497400000d2000000116f9b11cad9937...
+Padding: d7
+
+No.     Time           Source                Destination           Protocol Length Info
+    239 6.216940800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 239: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ee83f6086c46ab7a497200000d20000001189db51b0de52b...
+Padding: bf
+
+No.     Time           Source                Destination           Protocol Length Info
+    240 6.243062400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 240: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ea8bf6266c468379497200000d200000011635b11ead9935...
+Padding: 99
+
+No.     Time           Source                Destination           Protocol Length Info
+    241 6.269184000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 241: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ee09f67b6c462b7862c600000d200000011321ad210d60c5...
+Padding: f1
+
+No.     Time           Source                Destination           Protocol Length Info
+    242 6.295305600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 242: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ef03f59f6cc72b6f4ac000000d200000011519b11e8d1935...
+Padding: 14
+
+No.     Time           Source                Destination           Protocol Length Info
+    243 6.321427200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 243: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ff83f7166d45039a617000000d200000011685b51d0de525...
+Padding: c7
+
+No.     Time           Source                Destination           Protocol Length Info
+    244 6.347548800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 244: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f301f6666cc64358497200000d2000000114ddaf1ead9935...
+Padding: 8c
+
+No.     Time           Source                Destination           Protocol Length Info
+    245 6.373670400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 245: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f803f63b6d462b69656000000d200000011a45af160d6585...
+Padding: ed
+
+No.     Time           Source                Destination           Protocol Length Info
+    246 6.399792000                                                MPEG-1   417    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 246: 417 bytes on wire (3336 bits), 417 bytes captured (3336 bits)
+Moving Picture Experts Group Audio
+Data: ea03f55f6d472b264ce000000d200000011731b11b0d3d2e...
+
+No.     Time           Source                Destination           Protocol Length Info
+    247 6.425913600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 247: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f583f5ff6d46ab58496400000d200000011701af1a8d312e...
+Padding: 41
+
+No.     Time           Source                Destination           Protocol Length Info
+    248 6.452035200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 248: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f883f5b86bc6c32f4a9000000d2000000118b9b318ad6181...
+Padding: 48
+
+No.     Time           Source                Destination           Protocol Length Info
+    249 6.478156800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 249: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f903f6626d464379606000000d200000011779b11b0d2593...
+Padding: 2d
+
+No.     Time           Source                Destination           Protocol Length Info
+    250 6.504278400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 250: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f403f58b6cc7234f4a4000000d20000001177db11b0de181...
+Padding: 8c
+
+No.     Time           Source                Destination           Protocol Length Info
+    251 6.530400000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 251: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: fc03f64f6c464378606200000d20000001195db3170de181...
+Padding: 55
+
+No.     Time           Source                Destination           Protocol Length Info
+    252 6.556521600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 252: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f083f5836d474358486000000d200000011879b518ad6181...
+Padding: 80
+
+No.     Time           Source                Destination           Protocol Length Info
+    253 6.582643200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 253: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f503f6136bc6432963f000000d200000011669b11b0dbd2a...
+Padding: 5e
+
+No.     Time           Source                Destination           Protocol Length Info
+    254 6.608764800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 254: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f903f6796bc5c378605000000d20000001172db11b0de181...
+Padding: 9b
+
+No.     Time           Source                Destination           Protocol Length Info
+    255 6.634886400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 255: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f383f5f46d464378605000000d200000011975b516acbd81...
+Padding: c2
+
+No.     Time           Source                Destination           Protocol Length Info
+    256 6.661008000                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 256: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ed03f5736cc7434f494000000d200000011869b5190dbd80...
+Padding: d8
+
+No.     Time           Source                Destination           Protocol Length Info
+    257 6.687129600                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 257: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f303f5d36c46c36f485200000d200000011929b5190da5f5...
+Padding: 1f
+
+No.     Time           Source                Destination           Protocol Length Info
+    258 6.713251200                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 258: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f003f5b06c46c34c48c200000d200000011901b5170dbd82...
+Padding: ac
+
+No.     Time           Source                Destination           Protocol Length Info
+    259 6.739372800                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 259: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: f003f60a6d46434f486000000d200000011871b3190da584...
+Padding: 55
+
+No.     Time           Source                Destination           Protocol Length Info
+    260 6.765494400                                                MPEG-1   418    Audio Layer 3, 128 kb/s, 44.1 kHz
+
+Frame 260: 418 bytes on wire (3344 bits), 418 bytes captured (3344 bits)
+Moving Picture Experts Group Audio
+Data: ec83f5866c47434c49d200000d2000000115d5a7100c6180...
+Padding: 55
